@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fr": "Golfe du St-Laurent"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.380859375,
+            48.268569112964336
+          ],
+          [
+            -58.51318359374999,
+            49.42526716083716
+          ],
+          [
+            -57.2607421875,
+            51.09662294502995
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fr": "Détroit de Belle-Isle"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -57.041015625,
+            51.358061573190916
+          ],
+          [
+            -55.37109374999999,
+            52.09300763963822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fr": "Mer du Labrador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.9091796875,
+            54.39335222384589
+          ],
+          [
+            -55.56884765625,
+            53.80065082633023
+          ],
+          [
+            -54.7998046875,
+            52.53627304145948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fr": "Mer du Labrador"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -64.072265625,
+            60.80206374467983
+          ],
+          [
+            -60.20507812499999,
+            56.559482483762245
+          ],
+          [
+            -56.33789062499999,
+            54.87660665410869
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fr": "Océan Atlantique"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -54.58007812499999,
+            50.62507306341437
+          ],
+          [
+            -51.767578125,
+            48.922499263758255
+          ],
+          [
+            -51.50390625,
+            45.583289756006316
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name_fr": "Détroit de Cabot"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -60.380859375,
+            47.45780853075031
+          ],
+          [
+            -58.095703125,
+            47.15984001304432
+          ],
+          [
+            -56.162109375,
+            46.55886030311719
+          ]
+        ]
+      }
+    }
+  ]
+}
